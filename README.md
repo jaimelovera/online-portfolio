@@ -1,6 +1,6 @@
-# Online Portfolio - Version 3
+# Online Portfolio
 
-###### Note: This is not up to date. I'm no longer updating this project.
+###### Note: I'm no longer updating this project.
 
 > My online portfolio to share my projects and provide more information about myself. Built with React and Material-UI.
 
